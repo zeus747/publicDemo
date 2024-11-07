@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DemoxApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DemoxApplication.class, args);
+		SpringApplicdsdsdsation.run(DemoxApplication.class, args);
 	}
 
 }
